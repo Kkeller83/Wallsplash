@@ -10,6 +10,8 @@ Wallsplash is a script to change wallpapers on Gnome. Download beautiful random 
 3. Enter the root password and choose the most suitable version of your graphic resolution, among 1080p, 4k, 5k, 8k UHD.
 4. start Wallsplash manually from the programs menu or install chrones and set the time to change your wallpaper automatically.
 
+![Schermata del 2022-01-16 21-10-11](https://user-images.githubusercontent.com/87201918/149680378-3bc6048e-746e-48e5-823a-081024f9db2c.png)
+
 # Automatic switch with cronie
 
 1. Install cronie for your linux version.
@@ -18,3 +20,5 @@ Wallsplash is a script to change wallpapers on Gnome. Download beautiful random 
 4. Check your crontab with $ cronie -l 
 
 
+
+![Schermata del 2022-01-16 21-12-12](https://user-images.githubusercontent.com/87201918/149680388-c4486e31-af2d-4d8d-bb62-4186bb08c2d2.png)
