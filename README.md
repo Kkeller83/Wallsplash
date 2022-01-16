@@ -7,6 +7,12 @@ Wallsplash is a script to change wallpapers on Gnome. Download beautiful random 
 
 Watch video on youtube https://youtu.be/YXTTZbXsrb8
 
+# !important 
+>> First step open in the Istallation folder asset/background, right click set wallpapers. 
+It is to enable Gnome to set the background file as the path for the wallpaper to follow, if no background is set with the right click Gnome will not follow the ~/.config/background directory needed to update the wallpaper with Wallsplash.
+
+
+
 # Install
 
 1. It allowed the instal.sh file to run as a program
