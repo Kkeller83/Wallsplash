@@ -23,6 +23,12 @@ cp bin/check.sh            ~/.Wallsplash/bin
 cp bin/wbin.sh             ~/.Wallsplash/bin
 cp fix/fix.sh              ~/.Wallsplash/fix
 
+chmod +x  ~/.Wallsplash/bin/wbin.sh
+chmod +x  ~/.Wallsplash/bin/check.sh
+chmod +x  ~/.Wallsplash/fix/fix.sh
+
+
+
 #set url server
 echo "https://4kwallpapers.com/images/wallpapers/*-" >  ~/.Wallsplash/data/url
 

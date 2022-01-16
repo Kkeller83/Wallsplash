@@ -6,7 +6,10 @@ echo $((1 + RANDOM % 7200)) > ~/.Wallsplash/data/random
 
 wget -O ~/.Wallsplash/data/wallsplash.jpg   "$(cat ~/.Wallsplash/data/url)$(cat ~/.Wallsplash/data/resolution)-$(cat ~/.Wallsplash/data/random).jpg"
 
-mv ~/.Wallsplash/data/wallsplash.jpg  ~/.config/background
+#Archlinux
+cp ~/.Wallsplash/data/wallsplash.jpg  ~/.config/background
+#Fedora
+cp ~/.Wallsplash/data/wallsplash.jpg  ~/Pictures/Wallpapers/background
 
 exec ~/.Wallsplash/bin/check.sh
 
