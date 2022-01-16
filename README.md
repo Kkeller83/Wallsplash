@@ -5,6 +5,8 @@ Wallsplash allows you to change your linux wallpaper with beautiful wallpapers t
 
 Wallsplash is a script to change wallpapers on Gnome. Download beautiful random images from the internet and update your Gnome wallpaper. Can be used with cronie, and needs to have notify-send installed to send you notifications.
 
+Watch video on youtube https://youtu.be/YXTTZbXsrb8
+
 # Install
 
 1. It allowed the instal.sh file to run as a program
