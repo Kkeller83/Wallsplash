@@ -23,4 +23,4 @@ after the installation if you want use cronie, you can set your crontab whit @ho
 Gmome 41.3 - Unity 
 1. Archlinux ok! Watch video on youtube https://youtu.be/YXTTZbXsrb8
 2. Fedora 35 ok!
-3. ubuntu 21.10 ok!
+3. Ubuntu 21.10 ok!
