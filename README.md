@@ -28,3 +28,4 @@ Gmome 41.3 - Unity - Cinnamon
 2. Fedora 35 ok! Watch video on youtube https://youtu.be/esDQIIyuho8
 3. Ubuntu 21.10 ok! Watch video on youtube https://youtu.be/TJSvIqbrDk4
 4. Mint 20.3 ok! Watch video on youtube https://youtu.be/4HtO6onrjzQ
+5. Pop-OS 21.10 ok! (need to reboot)    https://youtu.be/XS40gHuoFqc
