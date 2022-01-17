@@ -17,7 +17,14 @@ Wallsplash is a script to change wallpapers on Gnome. Download beautiful random 
 
 Wallsplash needs of notify-send for notifiers
 Wallsplash needs of cronie for automatic switch
-after the installation if you want use cronie, you can set your crontab whit @hourly ~/.Wallsplash/bin/wbin.sh
+
+# Crontab
+after the installation if you want use cronie, you can set your crontab whit 
+1. install cronie and enable the service
+2. type $ cronie -e   and set yuor favorite time for switch the wallpapers
+Example: @hourly ~/.Wallsplash/bin/wbin.sh (Change every hour) 
+      or */15 * * * * ~/.Wallsplash/bin/wbin.sh (Change every 15 minutes)
+      
 
 # WORK on..
 
