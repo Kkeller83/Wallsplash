@@ -3,7 +3,7 @@
 # Wallsplash
 ![Schermata del 2022-01-16 21-12-12](https://user-images.githubusercontent.com/87201918/149684180-5526e721-0994-4d29-8e56-4c0124fc64a1.png)
 
-Wallsplash allows you to change your linux wallpaper with beautiful wallpapers taken from the internet. (no unsplash or bing) 
+Wallsplash allows you to change your linux wallpaper with beautiful wallpapers taken from the https://4kwallpapers.com/. (no unsplash or bing) 
 
 Wallsplash is a script to change wallpapers on Gnome. Download beautiful random images from the internet and update your Gnome wallpaper. Can be used with cronie, and needs to have notify-send installed to send you notifications.
 
