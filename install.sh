@@ -54,16 +54,16 @@ select opt in "${options[@]}"
 do
     case $opt in
         "1080p")
-            echo "1920x1080" > ~/.Wallsplash/data/resolution;  exit;;
+            echo "1920x1080" > ~/.Wallsplash/data/resolution; exec ~/.Wallsplash/bin/wbin.sh;  exit;;
             
         "4k")
-            echo "3480x2160" > ~/.Wallsplash/data/resolution; exit;;
+            echo "3480x2160" > ~/.Wallsplash/data/resolution; exec ~/.Wallsplash/bin/wbin.sh;  exit;;
             
         "5k")
-            echo "5120x2880" > ~/.Wallsplash/data/resolution; exit;;
+            echo "5120x2880" > ~/.Wallsplash/data/resolution; exec ~/.Wallsplash/bin/wbin.sh;  exit;;
             
         "8k")
-            echo "7680x4320" > ~/.Wallsplash/data/resolution; exit;;
+            echo "7680x4320" > ~/.Wallsplash/data/resolution; exec ~/.Wallsplash/bin/wbin.sh;  exit;;
             
         *) echo "invalid option $REPLY";;
     esac
