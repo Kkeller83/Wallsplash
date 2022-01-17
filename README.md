@@ -20,7 +20,8 @@ Wallsplash needs of cronie for automatic switch
 after the installation if you want use cronie, you can set your crontab whit @hourly ~/.Wallsplash/bin/wbin.sh
 
 # WORK 100% on..
-Gmome 41.3 - Unity 
+Gmome 41.3 - Unity - Cinnamon
 1. Archlinux ok! Watch video on youtube https://youtu.be/YXTTZbXsrb8
 2. Fedora 35 ok!
 3. Ubuntu 21.10 ok!
+4. Mint 20.3 ok!
