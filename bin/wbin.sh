@@ -9,6 +9,7 @@ wget -O ~/.Wallsplash/data/wallsplash.jpg   "$(cat ~/.Wallsplash/data/url)$(cat 
 #Archlinux
 cp ~/.Wallsplash/data/wallsplash.jpg  ~/.config/background
 #Fedora
+mkdir -p ~/Pictures/Wallpapers
 cp ~/.Wallsplash/data/wallsplash.jpg  ~/Pictures/Wallpapers/background
 
 exec ~/.Wallsplash/bin/check.sh
