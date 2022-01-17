@@ -26,5 +26,5 @@ Wallsplash needs of notify-send!
 Gmome 41.3 - Unity - Cinnamon
 1. Archlinux ok! Watch video on youtube https://youtu.be/YXTTZbXsrb8
 2. Fedora 35 ok!
-3. Ubuntu 21.10 ok!
+3. Ubuntu 21.10 ok! Watch video on youtube https://youtu.be/TJSvIqbrDk4
 4. Mint 20.3 ok!
