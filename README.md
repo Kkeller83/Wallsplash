@@ -4,7 +4,7 @@
 ![Schermata del 2022-01-16 21-12-12](https://user-images.githubusercontent.com/87201918/149684180-5526e721-0994-4d29-8e56-4c0124fc64a1.png)
 
 
-Watch video on youtube https://youtu.be/YXTTZbXsrb8
+
 
 Wallsplash allows you to change your linux wallpaper with beautiful wallpapers taken from the internet. (no unsplash or bing) 
 
@@ -23,5 +23,5 @@ Wallsplash needs of cronie for automatic switch
 after the installation if you want use cronie, you can set your crontab whit @hourly ~/.Wallsplash/bin/wbin.sh
 
 #WORK 100% on..
-1. Archlinux
+1. Archlinux Watch video on youtube https://youtu.be/YXTTZbXsrb8
 2. Fedora
