@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright © 2022 Jonathan Sanfilippo
+# Author Jonathan Sanfilippo
 
 
 echo $((1 + RANDOM % 7200)) > ~/.Wallsplash/data/random

@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright © 2022 Jonathan Sanfilippo
+# Author Jonathan Sanfilippo
 
 gsettings get org.gnome.desktop.background picture-uri > ~/.Wallsplash/data/picture-uri
 

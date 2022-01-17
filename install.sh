@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright © 2022 Jonathan Sanfilippo
+# Author Jonathan Sanfilippo
 
 echo ""
 echo "Install Wallsplash! by Jonathan Sanfilippo"
