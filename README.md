@@ -22,4 +22,6 @@ Wallsplash needs of notify-send for notifiers
 Wallsplash needs of cronie for automatic switch
 after the installation if you want use cronie, you can set your crontab whit @hourly ~/.Wallsplash/bin/wbin.sh
 
-
+#WORK 100% on..
+1. Archlinux
+2. Fedora
